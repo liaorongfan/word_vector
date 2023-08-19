@@ -1,0 +1,7 @@
+/data/pdf
+/output
+/*.pkl
+/*.csv
+/.idea
+/history
+/tmp
